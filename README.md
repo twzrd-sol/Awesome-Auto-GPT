@@ -171,6 +171,7 @@ Auto-GPT is a pioneering open-source project designed to demonstrate the power o
 
 ## Tools & Software
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for autonomous AI agents on Solana. Verify agent wallet identity before x402 micropayments in Auto-GPT and agentic workflows. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [Auto-GPT Alternatives and Similar Sites & Apps](https://alternativeto.net/software/auto-gpt/): A crowd-sourced list of more than 25 apps similar to Auto-GPT.
 - [AutoGPT - An Autonomous GPT-4 - Product Information, Latest Updates, and Reviews](https://www.producthunt.com/products/autogpt-an-autonomous-gpt-4): An experimental open-source application showcasing the capabilities of the GPT-4 language model.
 - [AutoGPT Reviews 2023: Details, Pricing, & Features | G2](https://www.g2.com/products/autogpt/reviews): A tool based on Python that uses GPT APIs for learning new technology and writing formal emails.
